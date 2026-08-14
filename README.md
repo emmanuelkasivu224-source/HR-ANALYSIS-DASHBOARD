@@ -357,3 +357,24 @@ Example measures used or suitable for this project include:
 ```DAX
 Total Employees =
 COUNTROWS('HR Data')
+
+Avg Monthly Salary =
+AVERAGE('HR Data'[MonthlyIncome])
+
+Avg Satisfaction =
+AVERAGE('HR Data'[JobSatisfaction])
+
+Attrition Count =
+CALCULATE(
+    COUNTROWS('HR Data'),
+    'HR Data'[Attrition] = "Yes"
+)
+
+Attrition Rate =
+DIVIDE(
+    [Attrition Count],
+    [Total Employees],
+    0
+)
+
+
