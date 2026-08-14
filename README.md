@@ -1,3 +1,5 @@
+<img width="927" height="497" alt="dashboard" src="https://github.com/user-attachments/assets/475445f3-4450-4a58-9eca-f18ad63a3752" />
+<img width="1090" height="230" alt="insights" src="https://github.com/user-attachments/assets/f7e5723d-847c-44e3-b428-097f3c7d7948" />
 # HR Analysis Dashboard – Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow)
