@@ -18,11 +18,11 @@ The dashboard provides a centralized view of important HR Key Performance Indica
 
 ### Main HR Dashboard
 
-![HR Analysis Dashboard](Screenshots/dashboard.png)
+![HR Analysis Dashboard](Screenshots/dashboard.jpeg)
 
 ### HR Insights & Recommendations
 
-![HR Insights](Screenshots/insights.png)
+![HR Insights](Screenshots/insights.jpeg)
 
 ---
 
